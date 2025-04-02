@@ -1,0 +1,11 @@
+Project Setup
+1. GitHub Setup
+2. Project template creation
+3.Project setup & Installing requirements
+4. Logging, Utils, Exception module
+5. project Workflows
+6. Component Notebook Experiment 
+7. Component modular code implementation
+8. training Pipeline
+9. Prediciton Pipeline and user app creation 
+10. CI/CD deployment on aws 
