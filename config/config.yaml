@@ -1,0 +1,11 @@
+# configuration : if need some path or url we can store it in here
+
+artifacts_root: artifacts  ## make a artifact file 
+
+data_ingestion:
+  root_dir: artifacts/data_ingestion
+  source_URL: https://github.com/entbappy/Branching-tutorial/raw/master/summarizer-data.zip
+  local_data_file: artifacts/data_ingestion/data.zip # download the data
+  unzip_dir: artifacts/data_ingestion
+
+## all the things will get updated here so need for looking every where through the folder
