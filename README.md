@@ -13,3 +13,5 @@
 
 Data ingestion : 
 entity : return type of a function 
+
+Data Transformation : Converting data into features
